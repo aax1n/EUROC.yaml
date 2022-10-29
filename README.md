@@ -1,0 +1,1 @@
+# EUROC.yaml
